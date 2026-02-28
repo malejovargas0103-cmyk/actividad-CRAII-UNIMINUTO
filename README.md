@@ -2,4 +2,4 @@
 
 ## Integrantes
 
-- Mauro Alejandro Vargas Almonacid –1121135a
+- Mauro Alejandro Vargas Almonacid –1121135
